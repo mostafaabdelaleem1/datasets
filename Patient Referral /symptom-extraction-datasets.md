@@ -2,3 +2,21 @@
 
 - https://huggingface.co/datasets/gretelai/symptom_to_diagnosis
 - https://www.kaggle.com/datasets/krish0202/symptom-based-disease-labeling-dataset
+- https://www.kaggle.com/datasets/kundanbedmutha/healthcare-symptomsdisease-classification-dataset
+- https://www.kaggle.com/datasets/sarimahsan/daugmented-model
+- https://huggingface.co/datasets/KevinSpaghetti/cadec/viewer/default/train?row=0
+- https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset
+- https://www.kaggle.com/datasets/kundanbedmutha/healthcare-symptomsdisease-classification-dataset
+- https://www.kaggle.com/datasets/choongqianzheng/disease-and-symptoms-dataset
+- https://www.kaggle.com/datasets/noeyislearning/disease-prediction-based-on-symptoms
+- https://www.kaggle.com/datasets/rcratos/diabetes-risk-prediction
+- https://www.kaggle.com/datasets/snmahsa/disease-symptoms-and-treatments-dataset
+- https://www.kaggle.com/datasets/abbotpatcher/respiratory-symptoms-and-treatment
+- https://www.kaggle.com/datasets/anshulgupta1502/diseases-symptoms
+- https://www.kaggle.com/datasets/sanskrutik/diseases-and-symptoms
+- https://www.kaggle.com/datasets/ebrahimelgazar/doctor-specialist-recommendation-system
+- https://www.kaggle.com/datasets/vyaduvanshi/covid19-world-symptoms-survey-data
+- https://www.kaggle.com/datasets/melissamonfared/indicators-of-anxiety-or-depression
+- https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction
+- https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset-v2
+- 
